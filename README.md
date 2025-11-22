@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://raw.githubusercontent.com/milan-dsiq/milan-dsiq/output/snake.svg" alt="Snake animation" />
 <!--
 **milan-dsiq/milan-dsiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
